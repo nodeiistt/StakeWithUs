@@ -16,7 +16,7 @@
 
 5 - Click the `Stake` button on the page that opens.
 
-![Image](https://i.hizliresim.com/o4jrp11.png)
+![Image](https://i.hizliresim.com/rbh28fo.png)
 
 6 - Enter the amount you want to stake and click the `Stake Kuji` button.
 
