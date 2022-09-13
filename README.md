@@ -1,4 +1,4 @@
-# How to stake on Kujira Mainnet?
+# How to Stake?
 
 1 - Go to https://blue.kujira.app/
 
