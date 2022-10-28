@@ -1,6 +1,6 @@
 # How to stake on Jackal Mainnet?
 
-## How to stake on Stride Mainnet?
+## How to stake on Jackal Mainnet?
 
 1 - Go to https://jackal.nodeist.net
 
